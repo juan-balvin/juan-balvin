@@ -1,9 +1,6 @@
 # Hi, I'm Juan José Balvin Torres 👋
 
 I am a **Telecommunications Engineering** student at the University of Antioquia, specializing in **Data Engineering, Machine Learning, and Deep Learning**. With a strong background in **Telematic Services and Information Security**, my focus is on designing and developing robust software solutions that solve real-world problems.
-
-Beyond software development, I am deeply passionate about education and sharing knowledge. As a **Circuits II Teaching Assistant and STEM Tutor**, I actively mentor students, combining my technical expertise with my love for teaching to help others master complex engineering concepts.
-
 ---
 ### 🛠️ My Tech Stack
 
@@ -87,4 +84,15 @@ This is a selection of projects that showcase my ability to build and deploy end
 | ♻️ **Waste Classification System** | A real-time computer vision system using **Convolutional Neural Networks (CNNs)** to separate recyclable from non-recyclable materials. | How to build an end-to-end **Deep Learning** pipeline, including custom dataset creation in a controlled environment, and deploying the model on an **embedded system** for real-time inference. |
 | 📊 **Telecom Market Causal Analysis** | A **Causal Inference** study analyzing the impact of number portability and service quality on the market share of telecommunications companies in Colombia. | How to design a causal framework defining treatment, target, and static covariates, successfully implementing a **Causal Forest** model to estimate real-world business impacts. |
 ---
+## 🔬 Research and Affiliations
 
+As a student researcher at the **Universidad de Antioquia**, I collaborate with specialized teams to bridge the gap between theoretical engineering and impactful, real-world technological solutions:
+
+* **GEPAR (Power Electronics, Automation, and Robotics Group):** My current research focuses on applying **Deep Learning and Computer Vision** for environmental sustainability. I am developing the **Waste Classification System (Trash Selector)**, a solution designed to automatically separate recyclable from non-recyclable materials. This involves building an end-to-end pipeline—from creating a custom dataset using contrast-based image acquisition to deploying Convolutional Neural Networks (CNNs) on embedded vision systems (like the Can MV K230) for real-time inference.
+---
+## 👨‍🏫 Beyond the Code: Mentorship & Education
+
+Beyond software development, I am deeply passionate about education and sharing knowledge. As a **Circuits Teaching Assistant and STEM Tutor**, I actively mentor students, combining my technical expertise with my love for teaching:
+
+* **Mastering Core Sciences:** I provide targeted tutoring in foundational subjects—**Calculus, Algebra, Geometry, and Physics**—breaking down advanced mathematical formulas and concepts into intuitive, digestible lessons.
+* **Fostering Engineering Skills:** I guide students through complex technical challenges, helping them build a strong analytical foundation that bridges the gap between theoretical science and practical, real-world engineering solutions.
